@@ -11,8 +11,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toast.makeText(this, "git版本控制", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "git版本控制，第二次更新", Toast.LENGTH_SHORT).show();
 
+        Toast.makeText(this, "git版本控制，第二次更新", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "git版本控制，第三次更新", Toast.LENGTH_SHORT).show();
 
     }
 }
